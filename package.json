@@ -1,7 +1,7 @@
 {
-  "name": "commit-countdown",
+  "name": "3JS-react",
   "version": "1.0.0",
-  "description": "Countdown to the 1000th commit",
+  "description": "Playing with three.js library in React",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --content-base . --inline",
@@ -25,8 +25,8 @@
     "webpack-dev-server": "^2.5.0"
   },
   "dependencies": {
-    "axios": "^0.16.2",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "three": "^0.89.0"
   }
 }
